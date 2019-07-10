@@ -1,0 +1,15 @@
+---
+spring:
+  profiles: dev
+---
+spring:
+  profiles: test
+---
+spring:
+  profiles: DB1
+---
+spring:
+  profiles: DB2
+---
+spring:
+  profiles: DB3
